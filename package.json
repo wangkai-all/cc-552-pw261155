@@ -1,0 +1,10 @@
+{
+  "name": "local-station-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "本地模拟站点：节目预告收发、撤单与已发布文件检查（仅 Node.js 内置模块）",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
